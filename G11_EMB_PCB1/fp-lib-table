@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Kicad-Libraries-master")(type "KiCad")(uri "/home/sivanov/Downloads/Kicad-Libraries-master.pretty")(options "")(descr ""))
+)

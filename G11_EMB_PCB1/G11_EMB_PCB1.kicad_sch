@@ -36,7 +36,7 @@
 			)
 		)
 		(instances
-			(project "KP1"
+			(project "G11_EMB_PCB1"
 				(path "/90387532-b487-487a-b99c-671e9dfd7a26"
 					(page "1")
 				)
@@ -74,7 +74,7 @@
 			)
 		)
 		(instances
-			(project "KP1"
+			(project "G11_EMB_PCB1"
 				(path "/90387532-b487-487a-b99c-671e9dfd7a26"
 					(page "2")
 				)
