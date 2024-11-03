@@ -6,4 +6,4 @@ It covers three types of DC/DC convertsrs:
 2. LM1117R-ADJ - Linear DC/DC converter
 3. SY8089AAAC - Switching DC/DC converter
 
-   Enjoy!
+**Enjoy!**
